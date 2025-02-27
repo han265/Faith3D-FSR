@@ -34,7 +34,7 @@ The results will be saved at `./results/test_results/`.
 
 ## Train New Models
 
-To train the new model, you need to put your own high-resolution and low-resolution face images into `./imgs_train/HIGH` and `./imgs_train/LOW`, respectively, and then
+To train the new model, you need to put your own high-resolution and low-resolution face images into `./data/train/high` and `./data/train/low`, respectively, and then
 ```bash
 python run.py --config experiments/train_ffhq_sr.yml
 ```
