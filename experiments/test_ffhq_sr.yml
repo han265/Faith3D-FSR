@@ -4,7 +4,7 @@ run_test: true
 batch_size: 64
 checkpoint_dir: pretrained/
 checkpoint_name: Faith3D.pth
-test_result_dir: results/
+test_result_dir: results/test_results/
 
 initial_weights_path: {
   G_RLS: ~,
