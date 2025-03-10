@@ -45,8 +45,8 @@ The models will be saved at `./results/weights`
 Please refer to the [IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) and [pytorch-fid](https://github.com/mseitzer/pytorch-fid). 
 
 ## Citation
-If you use this code for your research, please cite our papers.
-```
-
-```
+##If you use this code for your research, please cite our papers.
+##```
+##
+##```
 The code is released for academic research use only.
